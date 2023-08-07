@@ -1,7 +1,7 @@
 # carray
 Pointer and non-pointer array strcture in C
 
-~~~C
+```C
 #include <stdio.h>
 #include <stdlib.h>
 
